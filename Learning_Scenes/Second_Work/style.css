@@ -1,0 +1,19 @@
+.container{
+    border: 3px black solid;
+}
+
+.container-fluid{
+    border: 3px black solid;
+    margin-top: 10px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.row{
+    border: 1px gray solid;
+}
